@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "vite": "^5.0.8"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
