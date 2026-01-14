@@ -5,7 +5,7 @@ export function renderMainMenu(app, loadGame) {
       <h1>🎮 Slim Eater 3000</h1>
       <div class="game-buttons">
         <button id="game1-btn">Square Game</button>
-        <button id="game2-btn">🍎 Fruit Catcher</button>
+        <button id="game2-btn">🍎 Slim Catcher</button>
       </div>
     </div>
   `;

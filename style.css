@@ -182,7 +182,7 @@ button:focus-visible {
   font-size: 0.9em;
 }
 
-/* Fruit Catcher Game Styles */
+/* Slim Catcher Game Styles */
 #fruit-canvas {
   background-color: #1a1a1a;
   display: block;
@@ -202,11 +202,11 @@ button:focus-visible {
 }
 
 .stat {
-  color: #888;
+  color: black;
 }
 
 .stat span {
-  color: #646cff;
+  color: black;
   font-weight: bold;
   font-size: 1.3em;
 }
@@ -216,7 +216,7 @@ button:focus-visible {
   bottom: 30px;
   left: 50%;
   transform: translateX(-50%);
-  color: #888;
+  color: black;
   font-size: 0.9em;
   z-index: 10;
 }

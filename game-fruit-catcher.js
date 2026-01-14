@@ -1,4 +1,4 @@
-// Fruit Catcher Game State
+// Slim Catcher Game State
 const fruitCatcherState = {
   canvas: null,
   ctx: null,
@@ -38,12 +38,12 @@ const fruitCatcherState = {
   musicMuted: false,
 };
 
-// Fruit Catcher Game
+// Slim Catcher Game
 export function renderFruitCatcherGame(app, renderMainMenu) {
   app.innerHTML = `
     <div class="game-container">
       <div class="game-header">
-        <h2>Fruit Catcher</h2>
+        <h2>Slim Catcher</h2>
         <div class="header-buttons">
           <button class="mute-button" id="mute-btn">🔊 Music</button>
           <button class="back-button" id="back-btn">← Back to Menu</button>
